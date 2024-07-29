@@ -1,5 +1,5 @@
 #Binomial boosting
-set.seed(2023)
+set.seed(2024)
 
 df_glmboost <- df
 
